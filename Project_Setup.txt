@@ -1,0 +1,14 @@
+IDE:
+	Visual code studio + plugins
+
+Frontend:
+	HTML
+	CSS - Bulma
+	Javascript + npm
+
+Backend:
+	Python
+		Django or Flask - Rest framework
+
+Database:
+	PostgreSQL
