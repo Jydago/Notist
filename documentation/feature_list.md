@@ -24,4 +24,4 @@
 ### Tags
 - Searchable tags
 - Some way of summarization of stickers in tag
-    - Get statistics of values, e.g. sleep time, exercise time, distance, time spent friends
+    - Get statistics of values, e.g. sleep time, exercise time, distance, time spent with friends
