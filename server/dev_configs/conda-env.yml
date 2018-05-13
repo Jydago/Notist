@@ -1,0 +1,5 @@
+name: notist
+dependencies:
+  - python=3.6
+  - flask
+  - pylint
